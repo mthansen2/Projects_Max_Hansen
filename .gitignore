@@ -1,0 +1,4 @@
+
+# Ignore missing pretrained weights in EE5561 final project
+f25-final-project-main/f25-final-project-main/pretrained/*.pth
+f25-final-project-main/f25-final-project-main/pretrained/*.pth.tar
