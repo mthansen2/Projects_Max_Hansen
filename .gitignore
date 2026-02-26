@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Model checkpoints / large files
+checkpoints/
+*.pt
+*.pth
+
+# MediaPipe model (optional to exclude)
+models/hand_landmarker.task
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
